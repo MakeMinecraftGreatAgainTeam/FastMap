@@ -1,0 +1,7 @@
+name: FastMap
+version: '${version}'
+main: org.mmga.fastmap.FastMap
+api-version: 1.18
+authors: [ MakeMinecraftGreatAgain ]
+description: A plugin can fast to build a map
+website: https://github.com/MakeMinecraftGreatAgainTeam/FastMap
